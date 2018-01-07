@@ -1,0 +1,12 @@
+@import './sass/variables.scss';
+
+.App-header {
+  text-align: center;
+  background-color: #111;
+  @media (#{$md}){
+    background-color: #555;
+  }
+  height: 150px;
+  padding: 30px 20px 20px;
+  color: white;
+}
