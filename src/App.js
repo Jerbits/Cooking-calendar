@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
 import FontAwesome from 'react-fontawesome';
 
-import logo from './logo.svg';
 import './App.css';
 
 
